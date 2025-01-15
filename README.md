@@ -1,4 +1,4 @@
-# CodeWars Challenges: <a target="_blank" href="https://shawncharles.com/Codewars" >Visit Here</a> 
+# CodeWars Challenges: <a target="_blank" href="https://www.codewars.com/users/Zunaid990" >Visit Here</a> 
 
 
 ## How It's Made: 
